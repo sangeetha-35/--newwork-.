@@ -1,0 +1,21 @@
+.bgclr{
+
+background-color:brown;
+height:50%;
+width: 50%;
+
+}
+
+.head{
+    background-color: blueviolet;
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+
+.image{
+    height: 100%;
+    width:100%;
+    border-radius: 20%;
+}
+
